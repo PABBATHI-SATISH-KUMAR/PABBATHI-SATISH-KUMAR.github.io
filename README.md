@@ -11,7 +11,7 @@ It’s a digital space where I showcase my **projects, skills, achievements, cer
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript **  
+- **JavaScript**  
 
 ---
 
